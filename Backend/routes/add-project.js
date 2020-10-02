@@ -13,6 +13,8 @@ router.post("/", (req, res)=>{
     const decoded_Token = jwt.decode(req.body.token)
     console.log(decoded_Token)
     console.log(decoded_Token)
+    console.log(decoded_Token)
+
     res.send(req.body)
 })
 
