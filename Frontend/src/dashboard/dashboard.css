@@ -1,0 +1,25 @@
+#dashboardSidebar li a{
+    text-decoration: none;
+    color: black;
+ }
+
+#dashboardSidebar li{
+    border-radius: 5px 30px 30px 5px;
+}
+
+#dashboardSidebar li:hover{
+     box-sizing: border-box;
+     background: rgba(76, 179, 211, 0.178);
+     border-radius: 5px 30px 30px 5px;
+}
+
+ 
+div:hover{
+    box-shadow: none;
+}
+
+#rating{
+    height: 120px;
+    width: 120px;
+    
+ }

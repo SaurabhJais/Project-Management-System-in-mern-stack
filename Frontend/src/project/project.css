@@ -1,0 +1,9 @@
+#floatingButton{
+    height: 70px;
+    width: 200px;
+    border-radius: 60px;
+    background-color: blueviolet;
+    position: sticky;
+    right: 0;
+    bottom: 200px;
+}
