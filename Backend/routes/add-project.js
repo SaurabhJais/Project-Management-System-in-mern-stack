@@ -27,6 +27,17 @@ router.post("/", (req, res)=>{
     console.log(decoded_Token)
     console.log(decoded_Token)
     console.log(decoded_Token)
+    console.log("Hello bhai this is funny thing")
+    console.log("Hello bhai this is funny thing")
+    console.log("Hello bhai this is funny thing")
+    console.log("Hello bhai this is funny thing")
+    console.log("Hello bhai this is funny thing")
+    console.log("Hello bhai this is funny thing")
+    console.log("Hello bhai this is funny thing")
+    console.log("Hello bhai this is funny thing")
+    console.log("Hello bhai this is funny thing")
+    console.log("Hello bhai this is funny thing")
+
 
     res.send(req.body)
 })
